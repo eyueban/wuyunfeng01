@@ -10,5 +10,6 @@ public class testHelloWorld {
     @Test
     public void sayHello() {
         System.out.println("hello");
+        System.out.println("world");
     }
 }
